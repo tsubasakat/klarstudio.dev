@@ -1,6 +1,6 @@
 # klarstudio.dev
 
-Klar Studio のサイト。GitHub Pages で `https://klarstudio.dev` に公開する。
+Klar Studio のサイト。Cloudflare Workers(静的アセット)で `https://klarstudio.dev` に公開する。
 
 | URL | ファイル |
 |---|---|
